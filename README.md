@@ -120,7 +120,7 @@ We do **not** sell personal information. California residents have rights to:
 
 ## 10. Children's Privacy
 
-Earn-Tap is not directed to children under 13. We do not knowingly collect personal information from children. If a parent/guardian believes their child provided personal information, contact us at: privacy@earntap.com
+Earn-Tap is not directed to children under 13. We do not knowingly collect personal information from children. If a parent/guardian believes their child provided personal information, contact us at: magrosunrg@gmail.com
 
 ## 11. Changes to This Policy
 
