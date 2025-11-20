@@ -110,7 +110,7 @@ We process minimal personal data and base it on:
 - Legitimate interest (improving the app)
 - User consent (for analytics/ads)
 
-You have rights to access, correct, or delete your data. Contact: privacy@earntap.com
+You have rights to access, correct, or delete your data. Contact: magrosunrg@gmail.com
 
 ### 9.2 CCPA (California Users)
 We do **not** sell personal information. California residents have rights to:
